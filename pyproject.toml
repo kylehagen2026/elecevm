@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "elecevm"
+version = "0.1.0"
+description = "Earned value management engine for electrical construction contractors — reference implementation of the Electrical EVM Recommended Practice"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Kyle Hagen" }]
+keywords = [
+  "earned value", "EVM", "ANSI-748", "EIA-748", "electrical construction", "specialty contractor",
+  "project controls", "Primavera P6", "XER", "Viewpoint Vista", "job cost", "rules of credit",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Other Audience",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Office/Business :: Scheduling",
+  "Topic :: Office/Business :: Financial :: Accounting",
+]
+dependencies = []
+
+[project.optional-dependencies]
+charts = ["matplotlib>=3.7"]
+xlsx = ["openpyxl>=3.1"]
+dev = ["pytest>=7", "matplotlib>=3.7", "openpyxl>=3.1"]
+
+[project.scripts]
+elecevm = "elecevm.cli:main"
+
+[project.urls]
+Documentation = "https://github.com/kylehagen2026/elecevm/blob/main/docs/standard.md"
+Source = "https://github.com/kylehagen2026/elecevm"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

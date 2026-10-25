@@ -1,0 +1,218 @@
+activity_id,as_of,commodity,item,uom,total_qty,installed_qty,milestones,milestone_progress,percent_complete,reported_by
+FE-ER-010,2026-03-14,conduit,Electrical room rough-in,LF,2400,378.9,layout,supports=0.7193,,GF
+FE-ER-010,2026-03-21,conduit,Electrical room rough-in,LF,2400,757.9,layout;supports,conduit_installed=0.1781,,GF
+FE-ER-010,2026-03-28,conduit,Electrical room rough-in,LF,2400,1136.8,layout;supports,conduit_installed=0.4211,,GF
+FE-ER-010,2026-04-04,conduit,Electrical room rough-in,LF,2400,1515.8,layout;supports,conduit_installed=0.6640,,GF
+FE-ER-010,2026-04-11,conduit,Electrical room rough-in,LF,2400,1894.7,layout;supports,conduit_installed=0.9069,,GF
+FE-ER-010,2026-04-18,conduit,Electrical room rough-in,LF,2400,2273.7,layout;supports;conduit_installed,boxes_fittings=0.9737,,GF
+FE-ER-010,2026-04-25,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-05-02,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-05-09,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-05-16,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-05-23,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-05-30,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-06-06,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-06-13,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-06-20,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-06-27,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-07-04,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-07-11,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-07-18,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-07-25,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-08-01,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-08-08,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-08-15,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-08-22,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-08-29,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-010,2026-09-05,conduit,Electrical room rough-in,LF,2400,2400,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-ER-020,2026-04-18,switchgear,Set switchgear and distribution,EA,6,0.7,,set_anchored=0.2939,,GF
+FE-ER-020,2026-04-25,switchgear,Set switchgear and distribution,EA,6,1.8,,set_anchored=0.7348,,GF
+FE-ER-020,2026-05-02,switchgear,Set switchgear and distribution,EA,6,2.8,set_anchored,bus_sections_connected=0.3515,,GF
+FE-ER-020,2026-05-09,switchgear,Set switchgear and distribution,EA,6,3.9,set_anchored;bus_sections_connected,terminated=0.2333,,GF
+FE-ER-020,2026-05-16,switchgear,Set switchgear and distribution,EA,6,4.9,set_anchored;bus_sections_connected;terminated,tested=0.2303,,GF
+FE-ER-020,2026-05-23,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-05-30,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-06-06,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-06-13,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-06-20,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-06-27,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-07-04,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-07-11,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-07-18,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-07-25,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-08-01,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-08-08,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-08-15,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-08-22,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-08-29,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-020,2026-09-05,switchgear,Set switchgear and distribution,EA,6,6,set_anchored;bus_sections_connected;terminated;tested;energized,,,GF
+FE-ER-030,2026-05-16,wire_feeder,Feeders — pull and terminate,LF,18000,1152,,pulled=0.1067,,GF
+FE-ER-030,2026-05-23,wire_feeder,Feeders — pull and terminate,LF,18000,3456,,pulled=0.3200,,GF
+FE-ER-030,2026-05-30,wire_feeder,Feeders — pull and terminate,LF,18000,5376,,pulled=0.4978,,GF
+FE-ER-030,2026-06-06,wire_feeder,Feeders — pull and terminate,LF,18000,7680,,pulled=0.7111,,GF
+FE-ER-030,2026-06-13,wire_feeder,Feeders — pull and terminate,LF,18000,9984,,pulled=0.9244,,GF
+FE-ER-030,2026-06-20,wire_feeder,Feeders — pull and terminate,LF,18000,12288,pulled,terminated=0.3307,,GF
+FE-ER-030,2026-06-27,wire_feeder,Feeders — pull and terminate,LF,18000,14592,pulled,terminated=0.8427,,GF
+FE-ER-030,2026-07-04,wire_feeder,Feeders — pull and terminate,LF,18000,16512,pulled;terminated,tested=0.4489,,GF
+FE-ER-030,2026-07-11,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-07-18,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-07-25,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-08-01,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-08-08,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-08-15,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-08-22,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-08-29,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-ER-030,2026-09-05,wire_feeder,Feeders — pull and terminate,LF,18000,18000,pulled;terminated;tested,,,GF
+FE-A1-010,2026-03-28,conduit,Area 1 overhead rough-in,LF,9500,841.8,layout,supports=0.2574,,GF
+FE-A1-010,2026-04-04,conduit,Area 1 overhead rough-in,LF,9500,1683.7,layout,supports=0.8482,,GF
+FE-A1-010,2026-04-11,conduit,Area 1 overhead rough-in,LF,9500,2525.5,layout;supports,conduit_installed=0.1013,,GF
+FE-A1-010,2026-04-18,conduit,Area 1 overhead rough-in,LF,9500,3367.4,layout;supports,conduit_installed=0.2376,,GF
+FE-A1-010,2026-04-25,conduit,Area 1 overhead rough-in,LF,9500,4209.2,layout;supports,conduit_installed=0.3740,,GF
+FE-A1-010,2026-05-02,conduit,Area 1 overhead rough-in,LF,9500,5051.1,layout;supports,conduit_installed=0.5103,,GF
+FE-A1-010,2026-05-09,conduit,Area 1 overhead rough-in,LF,9500,5892.9,layout;supports,conduit_installed=0.6466,,GF
+FE-A1-010,2026-05-16,conduit,Area 1 overhead rough-in,LF,9500,6734.8,layout;supports,conduit_installed=0.7830,,GF
+FE-A1-010,2026-05-23,conduit,Area 1 overhead rough-in,LF,9500,7576.6,layout;supports,conduit_installed=0.9193,,GF
+FE-A1-010,2026-05-30,conduit,Area 1 overhead rough-in,LF,9500,8278.2,layout;supports;conduit_installed,boxes_fittings=0.2138,,GF
+FE-A1-010,2026-06-06,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-06-13,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-06-20,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-06-27,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-07-04,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-07-11,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-07-18,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-07-25,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-08-01,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-08-08,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-08-15,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-08-22,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-08-29,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-010,2026-09-05,conduit,Area 1 overhead rough-in,LF,9500,9500,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A1-020,2026-05-23,wire_branch,Area 1 branch wire and devices,LF,42000,1330,,pulled=0.0487,,GF
+FE-A1-020,2026-05-30,wire_branch,Area 1 branch wire and devices,LF,42000,4655,,pulled=0.1705,,GF
+FE-A1-020,2026-06-06,wire_branch,Area 1 branch wire and devices,LF,42000,8645,,pulled=0.3167,,GF
+FE-A1-020,2026-06-13,wire_branch,Area 1 branch wire and devices,LF,42000,12635,,pulled=0.4628,,GF
+FE-A1-020,2026-06-20,wire_branch,Area 1 branch wire and devices,LF,42000,16625,,pulled=0.6090,,GF
+FE-A1-020,2026-06-27,wire_branch,Area 1 branch wire and devices,LF,42000,20615,,pulled=0.7551,,GF
+FE-A1-020,2026-07-04,wire_branch,Area 1 branch wire and devices,LF,42000,23940,,pulled=0.8769,,GF
+FE-A1-020,2026-07-11,wire_branch,Area 1 branch wire and devices,LF,42000,27930,pulled,made_up=0.0429,,GF
+FE-A1-020,2026-07-18,wire_branch,Area 1 branch wire and devices,LF,42000,31920,pulled,made_up=0.3143,,GF
+FE-A1-020,2026-07-25,wire_branch,Area 1 branch wire and devices,LF,42000,35910,pulled,made_up=0.5857,,GF
+FE-A1-020,2026-08-01,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-020,2026-08-08,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-020,2026-08-15,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-020,2026-08-22,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-020,2026-08-29,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-020,2026-09-05,wire_branch,Area 1 branch wire and devices,LF,42000,42000,pulled;made_up,,,GF
+FE-A1-030,2026-06-27,lighting_fixture,Area 1 lighting,EA,420,18.1,,hung=0.0784,,GF
+FE-A1-030,2026-07-04,lighting_fixture,Area 1 lighting,EA,420,63.4,,hung=0.2743,,GF
+FE-A1-030,2026-07-11,lighting_fixture,Area 1 lighting,EA,420,117.7,,hung=0.5095,,GF
+FE-A1-030,2026-07-18,lighting_fixture,Area 1 lighting,EA,420,172,,hung=0.7446,,GF
+FE-A1-030,2026-07-25,lighting_fixture,Area 1 lighting,EA,420,226.3,,hung=0.9798,,GF
+FE-A1-030,2026-08-01,lighting_fixture,Area 1 lighting,EA,420,280.7,hung,wired=0.3941,,GF
+FE-A1-030,2026-08-08,lighting_fixture,Area 1 lighting,EA,420,335,hung,wired=0.8252,,GF
+FE-A1-030,2026-08-15,lighting_fixture,Area 1 lighting,EA,420,389.3,hung;wired,lamped_energized=0.5126,,GF
+FE-A1-030,2026-08-22,lighting_fixture,Area 1 lighting,EA,420,420,hung;wired;lamped_energized,,,GF
+FE-A1-030,2026-08-29,lighting_fixture,Area 1 lighting,EA,420,420,hung;wired;lamped_energized,,,GF
+FE-A1-030,2026-09-05,lighting_fixture,Area 1 lighting,EA,420,420,hung;wired;lamped_energized,,,GF
+FE-A2-010,2026-05-16,conduit,Area 2 overhead rough-in,LF,8800,493.9,layout,supports=0.0408,,GF
+FE-A2-010,2026-05-23,conduit,Area 2 overhead rough-in,LF,8800,1234.6,layout,supports=0.6020,,GF
+FE-A2-010,2026-05-30,conduit,Area 2 overhead rough-in,LF,8800,1851.9,layout;supports,conduit_installed=0.0161,,GF
+FE-A2-010,2026-06-06,conduit,Area 2 overhead rough-in,LF,8800,2592.7,layout;supports,conduit_installed=0.1456,,GF
+FE-A2-010,2026-06-13,conduit,Area 2 overhead rough-in,LF,8800,3333.5,layout;supports,conduit_installed=0.2751,,GF
+FE-A2-010,2026-06-20,conduit,Area 2 overhead rough-in,LF,8800,4074.3,layout;supports,conduit_installed=0.4046,,GF
+FE-A2-010,2026-06-27,conduit,Area 2 overhead rough-in,LF,8800,4815,layout;supports,conduit_installed=0.5341,,GF
+FE-A2-010,2026-07-04,conduit,Area 2 overhead rough-in,LF,8800,5432.4,layout;supports,conduit_installed=0.6420,,GF
+FE-A2-010,2026-07-11,conduit,Area 2 overhead rough-in,LF,8800,6173.1,layout;supports,conduit_installed=0.7715,,GF
+FE-A2-010,2026-07-18,conduit,Area 2 overhead rough-in,LF,8800,6913.9,layout;supports,conduit_installed=0.9010,,GF
+FE-A2-010,2026-07-25,conduit,Area 2 overhead rough-in,LF,8800,7654.7,layout;supports;conduit_installed,boxes_fittings=0.1985,,GF
+FE-A2-010,2026-08-01,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-010,2026-08-08,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-010,2026-08-15,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-010,2026-08-22,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-010,2026-08-29,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-010,2026-09-05,conduit,Area 2 overhead rough-in,LF,8800,8800,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FE-A2-020,2026-07-11,wire_branch,Area 2 branch wire and devices,LF,36000,604.3,,pulled=0.0258,,GF
+FE-A2-020,2026-07-18,wire_branch,Area 2 branch wire and devices,LF,36000,4230,,pulled=0.1808,,GF
+FE-A2-020,2026-07-25,wire_branch,Area 2 branch wire and devices,LF,36000,7855.7,,pulled=0.3357,,GF
+FE-A2-020,2026-08-01,wire_branch,Area 2 branch wire and devices,LF,36000,11481.4,,pulled=0.4907,,GF
+FE-A2-020,2026-08-08,wire_branch,Area 2 branch wire and devices,LF,36000,15107.1,,pulled=0.6456,,GF
+FE-A2-020,2026-08-15,wire_branch,Area 2 branch wire and devices,LF,36000,18732.9,,pulled=0.8005,,GF
+FE-A2-020,2026-08-22,wire_branch,Area 2 branch wire and devices,LF,36000,22358.6,,pulled=0.9555,,GF
+FE-A2-020,2026-08-29,wire_branch,Area 2 branch wire and devices,LF,36000,25984.3,pulled,made_up=0.2051,,GF
+FE-A2-020,2026-09-05,wire_branch,Area 2 branch wire and devices,LF,36000,29610,pulled,made_up=0.4929,,GF
+FE-A2-030,2026-08-08,lighting_fixture,Area 2 lighting,EA,380,17.6,,hung=0.0843,,GF
+FE-A2-030,2026-08-15,lighting_fixture,Area 2 lighting,EA,380,70.4,,hung=0.3370,,GF
+FE-A2-030,2026-08-22,lighting_fixture,Area 2 lighting,EA,380,123.3,,hung=0.5898,,GF
+FE-A2-030,2026-08-29,lighting_fixture,Area 2 lighting,EA,380,176.1,,hung=0.8426,,GF
+FE-A2-030,2026-09-05,lighting_fixture,Area 2 lighting,EA,380,228.9,hung,wired=0.1748,,GF
+FE-A3-010,2026-06-27,conduit,Area 3 overhead rough-in,LF,6900,200.5,,layout=0.5813,,GF
+FE-A3-010,2026-07-04,conduit,Area 3 overhead rough-in,LF,6900,701.9,layout,supports=0.3448,,GF
+FE-A3-010,2026-07-11,conduit,Area 3 overhead rough-in,LF,6900,1303.5,layout,supports=0.9260,,GF
+FE-A3-010,2026-07-18,conduit,Area 3 overhead rough-in,LF,6900,1905,layout;supports,conduit_installed=0.1171,,GF
+FE-A3-010,2026-07-25,conduit,Area 3 overhead rough-in,LF,6900,2506.6,layout;supports,conduit_installed=0.2512,,GF
+FE-A3-010,2026-08-01,conduit,Area 3 overhead rough-in,LF,6900,3108.2,layout;supports,conduit_installed=0.3853,,GF
+FE-A3-010,2026-08-08,conduit,Area 3 overhead rough-in,LF,6900,3709.8,layout;supports,conduit_installed=0.5195,,GF
+FE-A3-010,2026-08-15,conduit,Area 3 overhead rough-in,LF,6900,4311.4,layout;supports,conduit_installed=0.6536,,GF
+FE-A3-010,2026-08-22,conduit,Area 3 overhead rough-in,LF,6900,4913,layout;supports,conduit_installed=0.7877,,GF
+FE-A3-010,2026-08-29,conduit,Area 3 overhead rough-in,LF,6900,5514.6,layout;supports,conduit_installed=0.9219,,GF
+FE-A3-010,2026-09-05,conduit,Area 3 overhead rough-in,LF,6900,6116.2,layout;supports;conduit_installed,boxes_fittings=0.3641,,GF
+FE-A3-020,2026-08-22,wire_branch,Area 3 branch wire and devices,LF,28000,2790,,pulled=0.1533,,GF
+FE-A3-020,2026-08-29,wire_branch,Area 3 branch wire and devices,LF,28000,5580,,pulled=0.3066,,GF
+FE-A3-020,2026-09-05,wire_branch,Area 3 branch wire and devices,LF,28000,8370,,pulled=0.4599,,GF
+FE-SITE-010,2026-08-22,underground,Site lighting and feeders,LF,1800,38.4,,trench_open=0.1067,,GF
+FE-SITE-010,2026-08-29,underground,Site lighting and feeders,LF,1800,268.8,,trench_open=0.7467,,GF
+FE-SITE-010,2026-09-05,underground,Site lighting and feeders,LF,1800,499.2,trench_open,conduit_set=0.1719,,GF
+FSS-ALL-010,2026-04-25,conduit,Fire alarm rough-in,LF,5200,380.5,layout,supports=0.1545,,GF
+FSS-ALL-010,2026-05-02,conduit,Fire alarm rough-in,LF,5200,761,layout,supports=0.6423,,GF
+FSS-ALL-010,2026-05-09,conduit,Fire alarm rough-in,LF,5200,1141.5,layout;supports,conduit_installed=0.0300,,GF
+FSS-ALL-010,2026-05-16,conduit,Fire alarm rough-in,LF,5200,1522,layout;supports,conduit_installed=0.1426,,GF
+FSS-ALL-010,2026-05-23,conduit,Fire alarm rough-in,LF,5200,1902.4,layout;supports,conduit_installed=0.2552,,GF
+FSS-ALL-010,2026-05-30,conduit,Fire alarm rough-in,LF,5200,2219.5,layout;supports,conduit_installed=0.3490,,GF
+FSS-ALL-010,2026-06-06,conduit,Fire alarm rough-in,LF,5200,2600,layout;supports,conduit_installed=0.4615,,GF
+FSS-ALL-010,2026-06-13,conduit,Fire alarm rough-in,LF,5200,2980.5,layout;supports,conduit_installed=0.5741,,GF
+FSS-ALL-010,2026-06-20,conduit,Fire alarm rough-in,LF,5200,3361,layout;supports,conduit_installed=0.6867,,GF
+FSS-ALL-010,2026-06-27,conduit,Fire alarm rough-in,LF,5200,3741.5,layout;supports,conduit_installed=0.7992,,GF
+FSS-ALL-010,2026-07-04,conduit,Fire alarm rough-in,LF,5200,4058.5,layout;supports,conduit_installed=0.8931,,GF
+FSS-ALL-010,2026-07-11,conduit,Fire alarm rough-in,LF,5200,4439,layout;supports;conduit_installed,boxes_fittings=0.0366,,GF
+FSS-ALL-010,2026-07-18,conduit,Fire alarm rough-in,LF,5200,4819.5,layout;supports;conduit_installed,boxes_fittings=0.7683,,GF
+FSS-ALL-010,2026-07-25,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-08-01,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-08-08,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-08-15,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-08-22,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-08-29,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-010,2026-09-05,conduit,Fire alarm rough-in,LF,5200,5200,layout;supports;conduit_installed;boxes_fittings;labeled_inspected,,,GF
+FSS-ALL-020,2026-07-18,fire_alarm_device,Fire alarm devices and cabling,EA,410,18.1,,rough_in=0.1471,,GF
+FSS-ALL-020,2026-07-25,fire_alarm_device,Fire alarm devices and cabling,EA,410,54.3,,rough_in=0.4412,,GF
+FSS-ALL-020,2026-08-01,fire_alarm_device,Fire alarm devices and cabling,EA,410,90.4,,rough_in=0.7353,,GF
+FSS-ALL-020,2026-08-08,fire_alarm_device,Fire alarm devices and cabling,EA,410,126.6,rough_in,device_installed=0.0196,,GF
+FSS-ALL-020,2026-08-15,fire_alarm_device,Fire alarm devices and cabling,EA,410,162.8,rough_in,device_installed=0.2157,,GF
+FSS-ALL-020,2026-08-22,fire_alarm_device,Fire alarm devices and cabling,EA,410,199,rough_in,device_installed=0.4118,,GF
+FSS-ALL-020,2026-08-29,fire_alarm_device,Fire alarm devices and cabling,EA,410,235.1,rough_in,device_installed=0.6078,,GF
+FSS-ALL-020,2026-09-05,fire_alarm_device,Fire alarm devices and cabling,EA,410,271.3,rough_in,device_installed=0.8039,,GF
+TEL-ALL-010,2026-05-09,cable_tray,Telecom pathways,LF,2600,243.8,,supports=0.3125,,GF
+TEL-ALL-010,2026-05-16,cable_tray,Telecom pathways,LF,2600,487.5,,supports=0.6250,,GF
+TEL-ALL-010,2026-05-23,cable_tray,Telecom pathways,LF,2600,731.2,,supports=0.9375,,GF
+TEL-ALL-010,2026-05-30,cable_tray,Telecom pathways,LF,2600,934.4,supports,tray_installed=0.1080,,GF
+TEL-ALL-010,2026-06-06,cable_tray,Telecom pathways,LF,2600,1178.1,supports,tray_installed=0.2784,,GF
+TEL-ALL-010,2026-06-13,cable_tray,Telecom pathways,LF,2600,1421.9,supports,tray_installed=0.4489,,GF
+TEL-ALL-010,2026-06-20,cable_tray,Telecom pathways,LF,2600,1665.6,supports,tray_installed=0.6193,,GF
+TEL-ALL-010,2026-06-27,cable_tray,Telecom pathways,LF,2600,1909.4,supports,tray_installed=0.7898,,GF
+TEL-ALL-010,2026-07-04,cable_tray,Telecom pathways,LF,2600,2112.5,supports,tray_installed=0.9318,,GF
+TEL-ALL-010,2026-07-11,cable_tray,Telecom pathways,LF,2600,2356.2,supports;tray_installed,covers_bonding_labeled=0.3750,,GF
+TEL-ALL-010,2026-07-18,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-07-25,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-08-01,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-08-08,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-08-15,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-08-22,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-08-29,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-010,2026-09-05,cable_tray,Telecom pathways,LF,2600,2600,supports;tray_installed;covers_bonding_labeled,,,GF
+TEL-ALL-020,2026-08-01,telecom_drop,Structured cabling — pull and terminate,EA,1150,97.6,,pulled=0.1697,,GF
+TEL-ALL-020,2026-08-08,telecom_drop,Structured cabling — pull and terminate,EA,1150,195.2,,pulled=0.3394,,GF
+TEL-ALL-020,2026-08-15,telecom_drop,Structured cabling — pull and terminate,EA,1150,292.8,,pulled=0.5091,,GF
+TEL-ALL-020,2026-08-22,telecom_drop,Structured cabling — pull and terminate,EA,1150,390.3,,pulled=0.6789,,GF
+TEL-ALL-020,2026-08-29,telecom_drop,Structured cabling — pull and terminate,EA,1150,487.9,,pulled=0.8486,,GF
+TEL-ALL-020,2026-09-05,telecom_drop,Structured cabling — pull and terminate,EA,1150,585.5,pulled,terminated=0.0261,,GF
+TEL-ALL-030,2026-08-29,fiber,Fiber backbone,STRAND,288,11.8,,pulled=0.0907,,GF
+TEL-ALL-030,2026-09-05,fiber,Fiber backbone,STRAND,288,47,,pulled=0.3628,,GF

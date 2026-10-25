@@ -1,0 +1,86 @@
+# elecevm project configuration — see docs/standard.md (Recommended Practice §4)
+
+[project]
+name = "Example Project — Electrical Package"
+start = 2026-03-09                 # project start / NTP; payroll week 1 contains this date
+week_ending = "saturday"           # payroll week-ending day (Sunday–Saturday weeks)
+workdays = ["mon", "tue", "wed", "thu", "fri", "sat"]
+holidays = [2026-05-25, 2026-07-03, 2026-09-07, 2026-11-26, 2026-12-25]
+std_hours_per_week = 50            # hours per head per week used for headcount conversions
+contracted_value = 6887050.0       # funding line: executed contract value
+basis = "estimated"                # metrics basis: "contracted" or "estimated" (contract + COs)
+
+[[disciplines]]
+code = "FE"
+name = "Facility Electrical"
+composite_rate = 92.50             # burdened labor $/hr (used when the budget has hours but no $)
+
+[[disciplines]]
+code = "FSS"
+name = "Fire & Security Systems"
+composite_rate = 98.00
+
+[[disciplines]]
+code = "TEL"
+name = "Telecommunications"
+composite_rate = 76.00
+
+# Budget at completion by discipline and cost type. Keys: labor_hours, labor, material,
+# subcontract, equipment, other. The estimated basis = contracted + change orders below
+# unless a [budget.estimated.<DISC>] table is given explicitly.
+[budget.contracted.FE]
+labor_hours = 38100
+labor = 3524250.0
+material = 1480000.0
+subcontract = 120000.0
+
+[budget.contracted.FSS]
+labor_hours = 5800
+labor = 568400.0
+material = 360000.0
+
+[budget.contracted.TEL]
+labor_hours = 6900
+labor = 524400.0
+material = 265000.0
+subcontract = 45000.0
+
+[[change_orders]]
+id = "CO-001"
+description = "Added receptacle circuits, Area 2 mezzanine"
+date = 2026-07-20
+status = "approved"                # proposed | pending | approved | rejected
+amounts = { "FE:L" = 101750.0, "FE:M" = 68000.0 }
+hours = { FE = 1100 }
+
+# Actual-cost basis per cost type: raw | markup | billed (RP §7.3)
+[ac_basis]
+labor = "raw"
+material = "raw"
+subcontract = "markup"
+subcontract_markup = 1.065
+
+[ev]
+default_method = "quantity"        # quantity | milestone | percent | invoiced | loe | apportioned
+
+[eac]
+policy = "max_management_cpi"      # reported EAC = max(management estimate, BAC/CPI)
+thresholds = { spi = 0.90, cpi = 0.90, cv_pct = 0.05 }
+
+[leveling]
+# crew_cap_headcount = 45          # optional: delay-only leveling cap on the labor curve (RP §5.4)
+
+[phasing]
+material = "follow_labor"          # follow_labor | bell | linear
+
+# Ledger phase (cost code) → discipline. Longest matching prefix wins.
+[phase_map]
+"200001" = "FE"
+"200002" = "FSS"
+"200003" = "TEL"
+
+# Ledger cost type → L/M/S/E/O
+[cost_type_map]
+"1" = "L"
+"3" = "M"
+"7" = "S"
